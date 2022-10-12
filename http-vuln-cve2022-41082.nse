@@ -110,3 +110,5 @@ Exchange 0-day vuln: CVE-2022-41082
 
   return vuln_report:make_output(vuln)
 end
+
+test
